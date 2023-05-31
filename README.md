@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory create .env you can run:
 set REACT_APP_API=https://us-central1-deezer-e56bc.cloudfunctions.net/app/
+then run:
 
 
 ### `npm start`
